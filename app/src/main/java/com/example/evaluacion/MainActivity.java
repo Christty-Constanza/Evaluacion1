@@ -21,4 +21,10 @@ public class MainActivity extends AppCompatActivity {
         btnCalcular = findViewById(R.id.btnCalcular);
         spinner = findViewById(R.id.spinner);
     }
+    public void CalcularIMC(){
+
+
+
+
+    }
 }
